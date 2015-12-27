@@ -1,0 +1,7 @@
+EpisodeIntent pick an episode of {show}
+EpisodeIntent pick an episode
+EpisodeIntent choose an episode
+EpisodeIntent choose an episode of {show}
+EpisodeIntent pick a random episode of {show}
+EpisodeIntent choose a random episode of {show}
+EpisodeIntent {show}

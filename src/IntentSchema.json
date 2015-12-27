@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "EpisodeIntent",
+      "slots":[
+        {"name":"show", "type":"LIST_OF_SHOWS"}
+      ]
+    }
+  ]
+}
